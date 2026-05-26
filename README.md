@@ -1,7 +1,7 @@
-# Tiktok-to-Urlebird
-Redirects Tiktok to Urlebird
+# TikTok-to-Urlebird
+Redirects TikTok to Urlebird
 
 
 Install:
 
-[Tiktok To UrleBird](https://www.github.conm/alphaxleonidas/TikTok-to-Urlebird/main/tree/tiktok-to-urlebird.user.js)
+[Tiktok To UrleBird](https://www.github.conm/alphaxleonidas/TikTok-to-Urlebird/raw/refs/heads/main/tiktok-to-urlebird.user.js)
