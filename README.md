@@ -4,7 +4,7 @@ Redirects TikTok to Urlebird
 
 Install:
 
-## [Tiktok To UrleBird](https://www.github.com/alphaxleonidas/TikTok-to-Urlebird/raw/refs/heads/main/tiktok-to-urlebird.user.js)
+## One click installation: [Install](https://www.github.com/alphaxleonidas/TikTok-to-Urlebird/raw/refs/heads/main/tiktok-to-urlebird.user.js)
 
 
 Requirements: Violentmonkey or TamperMonkey or any other script manager
